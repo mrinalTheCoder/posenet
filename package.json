@@ -1,5 +1,5 @@
 {
-  "name": "@tensorflow-models/posenet",
+  "name": "posenet",
   "version": "2.2.1",
   "description": "Pretrained PoseNet model in TensorFlow.js",
   "main": "dist/index.js",
